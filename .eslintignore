@@ -1,0 +1,6 @@
+src/assets
+src/generated
+build/
+
+// ...
+babel.config.js
